@@ -1,16 +1,16 @@
-## Hi there 👋
+Hi, I'm Big LAORE 👋
 
-<!--
-**Big-LAORE/Big-LAORE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build with AI, without being a professional developer, and I share what I use.
 
-Here are some ideas to get you started:
+📚 Claude Skills Library, security-audited
+https://github.com/Big-LAORE/Biblioth-que-de-skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+132 security-audited Claude skills, packaged as 10 Claude Code plugins: development workflow, AI agents, web and React, design and motion, cybersecurity, small business management, marketing, product, science and data, Obsidian notes.
+
+Every skill was reviewed before being added, and the audit report is public:
+https://github.com/Big-LAORE/Biblioth-que-de-skills/blob/main/AUDIT-SKILLS.md
+
+Install a plugin in Claude Code:
+/plugin install business --marketplace Big-LAORE/Biblioth-que-de-skills
+
+⭐ If the library helps you, a star on the repository helps other people find it.
